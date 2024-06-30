@@ -1,0 +1,10 @@
+main:
+
+  - title: Testing
+    authors:
+    conference_short: 
+    conference: 
+    pdf: 
+    code: https://github.com/
+    image: ./assets/img/teaser_example_2.png
+    notes: yello
